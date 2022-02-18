@@ -1,0 +1,6 @@
+iac/.terraform/*
+iac/.terraform.lock.hcl
+iac/terraform.tfstate
+iac/terraform.tfstate.backup
+lambda/order-processor/deployment_package.zip
+
